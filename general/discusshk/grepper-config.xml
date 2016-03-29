@@ -38,10 +38,15 @@
 
   <grep>
     <threads>
+      <thread id="25649715" /><!-- 期指攻略22 -->
       <thread id="25643471" /><!-- 苦虎府猴年九鳥估無辛苦7 -->
+      <thread id="25629985" /><!-- 有緣相聚11 -->
     </threads>
     <authors>
       <author id="5355969" /><!-- 小虎 -->
+      <author id="5119342" /><!-- 股海迷途 -->
+      <author id="5099620" /><!-- cinda72 -->
+      <author id="5769288" /><!-- an1688 -->
     </authors>
   </grep>
 
